@@ -22,7 +22,7 @@ I'm building practical web products and learning Python backend development. Com
 
 ## Портфолио / Portfolio
 
-Отдельные кейсы и **независимый учебный проект на Python** будут размещены в публичном репозитории `developer-portfolio`. Коммерческий исходный код AVEXIUM, Finansteh и Parser в нём не публикуется.
+**[Портфолио: AVEXIUM, Finansteh, Parser и учебный Python API](https://github.com/linkertbz-hash/developer-portfolio)** — три кейса работающих проектов и отдельный демонстрационный код FastAPI. Коммерческие исходники остаются закрытыми.
 
 ## Контакты / Contact
 
